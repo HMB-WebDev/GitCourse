@@ -1,6 +1,7 @@
 function A (int b, int c)
 {
     c = b*c;
+    d = c+5;
     print a;
 
 }
