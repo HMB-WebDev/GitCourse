@@ -2,7 +2,7 @@ function A (int b, int c)
 {
     c = b* double(c);
     print a;
-    print c;
+    print c+5;
 
 }
 function B (int f, int c)
