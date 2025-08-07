@@ -1,6 +1,6 @@
 function A (int b, int c)
 {
-    c = b*2;
+    c = b*c;
     print a;
 
 }
