@@ -1,6 +1,7 @@
 function A (int b, int c)
 {
-    c = b*c;
+    c = b* double(c);
     print a;
+    print c;
 
 }
