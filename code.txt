@@ -1,8 +1,10 @@
 function A (int b, int c)
 {
     c = b* double(c);
+    d = c +5; //in branch
     print a;
     print c+5;
+
 
 }
 function B (int f, int c)
