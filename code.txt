@@ -5,3 +5,8 @@ function A (int b, int c)
     print c;
 
 }
+function B (int f, int c)
+{
+    a = int(b)* double(c);
+    print a;
+}
