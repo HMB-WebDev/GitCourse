@@ -1,4 +1,4 @@
-function A (int b)
+function A (int b, int c)
 {
     c = b*2;
     print a;
