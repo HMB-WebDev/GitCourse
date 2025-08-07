@@ -2,6 +2,7 @@ function A (int b, int c)
 {
     c = b* double(c);
     d = c +5; //in branch
+    f= d/c; // in branch
     print a;
     print d;
     print c+5;
