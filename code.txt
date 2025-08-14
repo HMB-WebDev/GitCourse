@@ -13,5 +13,6 @@ function B (int f, int c)
 {
     a = int(b)* double(c);
     b = 5;
-    print a;
+    print a*2;
+    A(f,c)
 }
