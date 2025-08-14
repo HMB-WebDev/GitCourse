@@ -17,4 +17,5 @@ function B (int f, int c)
     A(f,c) +1
     //new line add locally
     var s = f*c
+    another new line
 }
