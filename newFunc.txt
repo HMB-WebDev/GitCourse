@@ -8,3 +8,11 @@ function B (int f, int c)
     print a;
     A(f,c)
 }
+
+function C (int ss, int cc)
+{
+    a = int(b)* double(c);
+    b = 5;
+    print a;
+    A(f,c)
+}
