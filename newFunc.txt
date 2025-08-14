@@ -15,4 +15,5 @@ function C (int ss, int cc)
     b = 5;
     print a;
     A(f,c)
+    from branch new-a
 }
